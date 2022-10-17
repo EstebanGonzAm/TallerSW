@@ -1,0 +1,65 @@
+<!doctype html>
+
+<html>
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <script src="lib/script.js"></script>
+  </head>
+
+  <body>
+    <div class="text-center">
+      <h1>Mulato azul</h1>
+      <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/309584271/1200" >
+
+
+
+      <div class="container text-center">
+        <div class="row">
+          <div class="col">
+            <h2> Información </h2>
+            <div class="row">
+              <p7 class="text-justify">No está estrechamente relacionado con Northern Mockingbird. Escurridizo y escuchado con mucha más frecuencia de lo que se ve, este pájaro cantor bastante grande y de cola amplia podría llamarse mejor "pájaro de mezclilla" por su plumaje azul opaco en general, sus maullidos y su comportamiento retraído. Prefiere matorrales, bosques densos con matorrales y sotobosque en las laderas y tierras altas; localmente a las tierras bajas del oeste en invierno. Arroja hojas al suelo y también se alimenta en todos los niveles en arbustos y árboles densos y fructíferos. Se ve con mayor frecuencia en vuelos cortos a través de caminos o senderos de cabo a rabo.
+              </p7>
+              <p8> <br>Link a la página de referencia: <p8>
+                 <a href="https://ebird.org/species/blumoc"> <br>Blue Mockingbird</a>
+
+              </div>
+            </div>
+            <div class="col">
+              <h2 > Curiosidades </h2>
+              <div class="row">
+                <p1 class="font-weight-bold">Avistamientos:<p1>
+
+                <ul class= "list-group">
+                  <li class="list-group-item"> Cantidad: 23829 </li>
+                  <li class="list-group-item"> Con fotos: 1012 </li>
+                  <li class="list-group-item"> Con audio: 312 </li>
+                </ul>
+              </div>
+              <div class="row">
+                <p2 class="font-weight-bold"> <br>  Nombre cientifico:<p2>
+
+                <ul class= "list-group">
+                  <li class="list-group-item"> Melanotis caerulescens </li>
+                </ul>
+              </div>
+              </div>
+              <div class="p-3 mb-2 bg-primary text-white">
+              <h3>Llene el formulario si quiere recibir más información<h3>
+                <form class="mb-3">
+                  <div class="form-group">
+                    <p1 for="email">Correo electronico</p1>
+                    <input type="email" class="form-control" placeholder="Ingrese su correo electronico">
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputPassword1">Nombre</label>
+                      <input type="nombre" class="form-control" placeholder="nombre">
+                      </div>
+                      <button type="Aceptar" class="h-50 d-inline-block" >Aceptar</button>
+                  </form>
+                  </div>
+            </div>
+          </div>
+    </div>
+  </body>
+</html>
